@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /usr/local/Cellar/cmake/3.16.1/bin/cmake
+CMAKE_COMMAND = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake
 
 # The command to remove a file.
-RM = /usr/local/Cellar/cmake/3.16.1/bin/cmake -E remove -f
+RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -60,15 +60,15 @@ include CMakeFiles/1114-Print-in-Order.dir/flags.make
 CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.o: CMakeFiles/1114-Print-in-Order.dir/flags.make
 CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.o: concurrency/1114-Print-in-Order.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hymanzhou/CLionProjects/my-leetcode-cpp/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.o -c /Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1114-Print-in-Order.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.o -c /Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1114-Print-in-Order.cpp
 
 CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1114-Print-in-Order.cpp > CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1114-Print-in-Order.cpp > CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.i
 
 CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1114-Print-in-Order.cpp -o CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1114-Print-in-Order.cpp -o CMakeFiles/1114-Print-in-Order.dir/concurrency/1114-Print-in-Order.cpp.s
 
 # Object files for target 1114-Print-in-Order
 1114__Print__in__Order_OBJECTS = \

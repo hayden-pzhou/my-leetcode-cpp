@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/1117-Building-H2O.dir/concurrency/1117-Building-H2O.cpp.o  -o bin/1117-Building-H2O  -lpthread 
+/usr/bin/g++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/1117-Building-H2O.dir/concurrency/1117-Building-H2O.cpp.o  -o bin/1117-Building-H2O  -lpthread 
