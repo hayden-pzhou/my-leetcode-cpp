@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1114-Print-in-Order.cpp
+functional
+-
+thread
+-
+iostream
+-
+vector
+-
+mutex
+-
+condition_variable
+-
+

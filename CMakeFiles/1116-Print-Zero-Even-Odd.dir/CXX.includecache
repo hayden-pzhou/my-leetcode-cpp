@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1116-Print-Zero-Even-Odd.cpp
+condition_variable
+-
+functional
+-
+iostream
+-
+mutex
+-
+thread
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/1195-Fizz-Buzz-Multithreaded.dir/concurrency/1195-Fizz-Buzz-Multithreaded.cpp.o  -o bin/1195-Fizz-Buzz-Multithreaded  -lpthread 

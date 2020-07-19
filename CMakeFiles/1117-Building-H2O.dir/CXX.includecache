@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1117-Building-H2O.cpp
+functional
+-
+mutex
+-
+thread
+-
+

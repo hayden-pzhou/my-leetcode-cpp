@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/1116-Print-Zero-Even-Odd.dir/concurrency/1116-Print-Zero-Even-Odd.cpp.o  -o bin/1116-Print-Zero-Even-Odd  -lpthread 

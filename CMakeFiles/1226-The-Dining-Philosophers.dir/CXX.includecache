@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hymanzhou/CLionProjects/my-leetcode-cpp/concurrency/1226-The-Dining-Philosophers.cpp
+condition_variable
+-
+functional
+-
+iostream
+-
+mutex
+-
+thread
+-
+
